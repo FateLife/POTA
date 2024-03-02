@@ -1,1 +1,1 @@
-# POTA
+# CC31-ThePhilosophers

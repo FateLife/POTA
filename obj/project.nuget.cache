@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "US5hsb1ZPD4HoFVKUCoX9aqa/xGOAlC7tiZH//zTTvGCroinF2wajZI0Nc5vgZ6jtuOAUJcXopURfopVIOyD2Q==",
+  "success": false,
+  "projectFilePath": "D:\\repos\\CC31-ThePhilosophers.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Engine\\Engine.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Engine\\Engine.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
